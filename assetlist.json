@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bitcoin",
+    "ticker": "BTC",
+    "type": "crypto",
+    "wkn": "-",
+    "isin": "-"
+  },
+  {
+    "name": "Ethereum",
+    "ticker": "ETH",
+    "type": "crypto",
+    "wkn": "-",
+    "isin": "-"
+  },
+  {
+    "name": "Binance Coin",
+    "ticker": "BNB",
+    "type": "crypto",
+    "wkn": "-",
+    "isin": "-"
+  },
+  {
+    "name": "Solana",
+    "ticker": "SOL",
+    "type": "crypto",
+    "wkn": "-",
+    "isin": "-"
+  },
+  {
+    "name": "Ripple",
+    "ticker": "XRP",
+    "type": "crypto",
+    "wkn": "-",
+    "isin": "-"
+  },
+  {
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "type": "stock",
+    "wkn": "865985",
+    "isin": "US0378331005"
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "type": "stock",
+    "wkn": "870747",
+    "isin": "US5949181045"
+  },
+  {
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "type": "stock",
+    "wkn": "906866",
+    "isin": "US0231351067"
+  },
+  {
+    "name": "Alphabet (Google)",
+    "ticker": "GOOGL",
+    "type": "stock",
+    "wkn": "A14Y6F",
+    "isin": "US02079K3059"
+  },
+  {
+    "name": "Tesla",
+    "ticker": "TSLA",
+    "type": "stock",
+    "wkn": "A1CX3T",
+    "isin": "US88160R1014"
+  }
+]
